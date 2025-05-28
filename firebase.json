@@ -1,0 +1,7 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bloodbank-30bad","appId":"1:167525615232:android:fba89abb6e8d96711b8865","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bloodbank-30bad","configurations":{"android":"1:167525615232:android:fba89abb6e8d96711b8865","ios":"1:167525615232:ios:170a1b887ca3d4a01b8865","web":"1:167525615232:web:734fbc9d4d4378691b8865"}}}}}}
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

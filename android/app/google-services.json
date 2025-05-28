@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "167525615232",
+    "project_id": "bloodbank-30bad",
+    "storage_bucket": "bloodbank-30bad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167525615232:android:fba89abb6e8d96711b8865",
+        "android_client_info": {
+          "package_name": "com.example.bloodpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167525615232-vc3cao58qo6gpocimv201hmscfn7v6to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodpoint",
+            "certificate_hash": "a528faa5f26988b28e12f7e77e5897c7e0ebc0ed"
+          }
+        },
+        {
+          "client_id": "167525615232-925q1ffs1shdkqusodltheggp916fgdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80Za_-42bnaI03uaYrHDD7BfHdm5NuWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167525615232-925q1ffs1shdkqusodltheggp916fgdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167525615232-l69pk0pbeikmr747f8v99rrv532kanq7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloodpoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
